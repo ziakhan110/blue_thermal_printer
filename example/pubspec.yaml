@@ -1,6 +1,6 @@
 name: blue_thermal_printer_example
 description: Demonstrates how to use the blue_thermal_printer plugin.
-publish_to: https://pub.dev/packages/blue_thermal_printer
+publish_to: none
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
